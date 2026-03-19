@@ -29,15 +29,15 @@ Complete any 10 tasks, and you can claim a free month of Scrimba Pro! Here's how
 
 ## 🛠️ Setup & Admin. 10 tasks | 2h 10min
 
-- [ ] 🌳 Add your Scrimba affiliate link to your [Linktree](https://linktr.ee) or bio links with a clear CTA *(5 min)*
-- [ ] 📸 Update your [Instagram](https://www.instagram.com/codewithscrimba/) bio. Add "Learning to code with @codewithscrimba" or similar 🌟 *(5 min)*
-- [ ] 💼 Update your **LinkedIn** headline. Add something like "Teaching others to code | Scrimba Student" *(5 min)*
+- [x] 🌳 Add your Scrimba affiliate link to your [Linktree](https://linktr.ee) or bio links with a clear CTA *(5 min)*
+- [x] 📸 Update your [Instagram](https://www.instagram.com/codewithscrimba/) bio. Add "Learning to code with @codewithscrimba" or similar 🌟 *(5 min)*
+- [x] 💼 Update your **LinkedIn** headline. Add something like "Teaching others to code | Scrimba Student" *(5 min)*
 - [ ] 🎠 Create an [Instagram](https://www.instagram.com/codewithscrimba/) Highlight reel. Save your Scrimba-related stories to a "Coding" or "Scrimba" highlight *(5 min)*
-- [ ] 📌 Pin a Scrimba post to the top of your [X/Twitter](https://twitter.com/scrimba) profile *(10 min)*
-- [ ] 👩‍💻 Set up a [Dev.to](https://dev.to/scrimba) account. Add a bio mentioning you're learning with Scrimba *(15 min)*
+- [x] 📌 Pin a Scrimba post to the top of your [X/Twitter](https://twitter.com/scrimba) profile *(10 min)*
+- [x] 👩‍💻 Set up a [Dev.to](https://dev.to/scrimba) account. Add a bio mentioning you're learning with Scrimba *(15 min)*
 - [ ] ✍️ Set up a [Hashnode](https://hashnode.com) blog. Customize your theme and write an intro post about your coding journey *(30 min)*
-- [ ] 🐙 Update your [GitHub](https://github.com) profile README. Add a section about your learning journey and the Scrimba courses you've completed *(20 min)*
-- [ ] 📝 Create a [Medium](https://medium.com) account. Set up your profile with a Scrimba mention and follow relevant coding publications *(15 min)*
+- [x] 🐙 Update your [GitHub](https://github.com) profile README. Add a section about your learning journey and the Scrimba courses you've completed *(20 min)*
+- [x] 📝 Create a [Medium](https://medium.com) account. Set up your profile with a Scrimba mention and follow relevant coding publications *(15 min)*
 - [ ] 🎬 Set up a [YouTube](https://www.youtube.com/@scrimba) channel. Create or optimize it for coding content and add Scrimba to your channel description *(20 min)*
 
 ---
@@ -68,10 +68,10 @@ Complete any 10 tasks, and you can claim a free month of Scrimba Pro! Here's how
 
 ## 🗂️ Portfolio & Projects. 4 tasks | 1h 50min–2h 5min
 
-- [ ] 🐙 Push a [GitHub](https://github.com) project with a Scrimba mention in the README. Credit the course that taught you the skills *(30 min)*
-- [ ] 👩‍💻 Write a [Dev.to](https://dev.to/scrimba) post showcasing a project you built with Scrimba skills *(45–60 min)*
+- [x] 🐙 Push a [GitHub](https://github.com) project with a Scrimba mention in the README. Credit the course that taught you the skills *(30 min)*
+- [x] 👩‍💻 Write a [Dev.to](https://dev.to/scrimba) post showcasing a project you built with Scrimba skills *(45–60 min)*
 - [ ] 🌟 Share your portfolio with **@leannefromscrimba** on [Discord](https://scrimba.com/discord) to potentially be featured in the Scrimba newsletter (don't forget to mention Scrimba and add your affiliate link!) *(15 min)*
-- [ ] 💼 Post a **LinkedIn** project spotlight with a link to your [GitHub](https://github.com) or live demo, and mention your Scrimba learning *(20 min)*
+- [x] 💼 Post a **LinkedIn** project spotlight with a link to your [GitHub](https://github.com) or live demo, and mention your Scrimba learning *(20 min)*
 
 ---
 
